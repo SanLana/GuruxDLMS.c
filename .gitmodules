@@ -1,0 +1,3 @@
+[submodule "HDLC"]
+	path = HDLC
+	url = git@github.com:SanLana/HDLC.git
